@@ -1,25 +1,33 @@
-# Hi, I'm Annapurna 👋
+Hi, I'm Annapurna   
 
-## 🚀 About Me
-- 🎓 CSE Student (3rd Year)
-- 💻 Learning Java, DSA & Backend Development
-- 🎯 Goal: Get placed in a good product-based company
+Aspiring Java Developer | DSA Learner
 
-## 🛠️ Skills
-- Java, Python, C
-- Data Structures & Algorithms
-- OOP, DBMS, OS
-- HTML, CSS, JavaScript
-- MySQL
+#  About Me
+- 3rd Year CSE Student  
+- Focused on Java, DSA & Backend Development  
+- Goal: Crack a product-based company  
 
-## 📂 Projects
-- Hospital Management System (Java + MySQL)
-- To-Do List Web App (HTML, CSS, JS)
+# Tech Stack
+- Languages: Java, Python, C  
+- Core: DSA, OOP, DBMS, OS  
+- Web: HTML, CSS, JavaScript  
+- Database: MySQL  
 
-## 📈 Currently Working On
-- Improving DSA problem-solving
-- Building better real-world projects
+# Projects
+## Hospital Management System
+- Built using Java & Swing (GUI)
+- Implemented CRUD operations with MySQL
+- Modular design using OOP principles  
 
-## 📫 Connect with me
+## To-Do List Web App
+- Built using HTML, CSS, JavaScript  
+- Dynamic DOM manipulation  
+- Real-time task updates  
+
+# Current Focus
+- Solving DSA problems daily  
+- Improving backend development skills  
+
+
+# Connect With Me
 - LinkedIn: https://linkedin.com/in/sagallaa-annapurna
-
